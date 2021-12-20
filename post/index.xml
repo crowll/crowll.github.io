@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Logan Crowl</title>
-    <link>crowll.github.io/post/</link>
-      <atom:link href="crowll.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/crowll.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>crowll.github.io/post/</link>
+      <link>/post/</link>
     </image>
     
     <item>
       <title>P-hat Ensemble Experiment</title>
-      <link>crowll.github.io/post/p-hat_experiment/</link>
+      <link>/post/p-hat_experiment/</link>
       <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>crowll.github.io/post/p-hat_experiment/</guid>
+      <guid>/post/p-hat_experiment/</guid>
       <description>&lt;p&gt;See the source document above for the full post.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-a-p-hat-model-or-p-hat-ensemble&#34;&gt;&lt;strong&gt;What is a &amp;ldquo;P-hat model&amp;rdquo; or &amp;ldquo;P-hat ensemble?&amp;quot;&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;The method evaluated in this post is used to test whether or not a set of features adds additional signal about an outcome above and beyond the signal in a different feature set. The general approach is to fit a tuned machine learning model on the first feature set and a second tuned ML model on the union of the first and second feature sets, output the predicted probabilities in the test set (P-hats), and fit a linear model regressing the outcome on those P-hat variables. If the linear model places a significant coefficient on the larger model, it indicates that those predictions contain new information about the outcome, and one might conclude as a result that the benefit comes from &amp;ldquo;new&amp;rdquo; signal in the additional features.&lt;/p&gt;

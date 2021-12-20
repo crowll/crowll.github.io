@@ -2,95 +2,95 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>crowll.github.io/courses/example/example1/</loc>
+    <loc>/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/courses/example/</loc>
+    <loc>/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/courses/example/example2/</loc>
+    <loc>/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/talk/example/</loc>
+    <loc>/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/talk/</loc>
+    <loc>/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/authors/</loc>
+    <loc>/authors/</loc>
     <lastmod>2021-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/author/logan-crowl/</loc>
+    <loc>/author/logan-crowl/</loc>
     <lastmod>2021-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/post/p-hat_experiment/</loc>
+    <loc>/post/p-hat_experiment/</loc>
     <lastmod>2021-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2021-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/publication-type/2/</loc>
+    <loc>/publication-type/2/</loc>
     <lastmod>2019-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/author/andrew-wilson/</loc>
+    <loc>/author/andrew-wilson/</loc>
     <lastmod>2019-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/publication/biochem_paper/</loc>
+    <loc>/publication/biochem_paper/</loc>
     <lastmod>2019-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/author/jane-liu/</loc>
+    <loc>/author/jane-liu/</loc>
     <lastmod>2019-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/author/joseph-nardi/</loc>
+    <loc>/author/joseph-nardi/</loc>
     <lastmod>2019-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/author/katie-st.-clair/</loc>
+    <loc>/author/katie-st.-clair/</loc>
     <lastmod>2019-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/publication_types/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2019-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/publication/</loc>
+    <loc>/publication/</loc>
     <lastmod>2019-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/author/rou-jia-sung/</loc>
+    <loc>/author/rou-jia-sung/</loc>
     <lastmod>2019-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/author/stanley-lo/</loc>
+    <loc>/author/stanley-lo/</loc>
     <lastmod>2019-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/courses/</loc>
+    <loc>/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/slides/</loc>
+    <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/slides/example/</loc>
+    <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/tag/deep-learning/</loc>
+    <loc>/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/tag/demo/</loc>
+    <loc>/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/project/external-project/</loc>
+    <loc>/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/project/internal-project/</loc>
+    <loc>/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/project/</loc>
+    <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>crowll.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>crowll.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
   </url>
 </urlset>
