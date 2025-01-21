@@ -18,7 +18,7 @@ theme: jekyll-theme-so-simple
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Logan Crowl"
-description: "It really is the best."
+description: "I'm a PhD student at CMU joint between public policy and machine learning."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
@@ -91,9 +91,10 @@ defaults:
 
 # Site Author
 author:
-  name:
+  name: Logan Crowl
   picture:
-  email:
+  email: lcrowl@andrew.cmu.edu
+  github: https://github.com/crowll
   twitter:
   links:
     - title:
