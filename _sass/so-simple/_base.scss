@@ -31,6 +31,16 @@ pre {
   font-family: $monospace-font-family;
 }
 
+.two-column-layout {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px; /* Adjust space between the columns if needed */
+  
+  .column {
+    flex: 1; /* Ensures both columns take up equal space */
+  }
+}
+
 kbd {
   display: inline-block;
   margin: 0 0.125em;

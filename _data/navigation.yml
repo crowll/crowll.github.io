@@ -3,7 +3,13 @@
 - title: Home
   url: /
 - title: CV
-  url: /posts/
+  url: /assets/files/cv.pdf
+- title: Research
+  url: /research/
+- title: Sports/Stats/Cities
+  url: /writing/
+- title: Twitter
+  url: https://x.com/crowl_logan
 # - title: Categories
 #   url: /categories/
 # - title: Tags

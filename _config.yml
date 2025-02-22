@@ -18,10 +18,10 @@ remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Logan Crowl"
-description: "I'm a PhD student at CMU joint between public policy and machine learning."
+description: "Public Policy and Machine Learning PhD student at CMU"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
+logo: /assets/images/favicon/apple-touch-icon.png # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -45,8 +45,17 @@ liquid:
   error_mode: strict
 
 # Build settings
-permalink: /:categories/:title/
+permalink: /:title/
 markdown: kramdown
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+
 feed:
   path: atom.xml
 
@@ -64,20 +73,21 @@ search_full_content: false # can have performance implications for large sites
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-target-blank
 
 # Front Matter Defaults
 defaults:
@@ -95,7 +105,7 @@ author:
   picture:
   email: lcrowl@andrew.cmu.edu
   github: https://github.com/crowll
-  twitter:
+  twitter: https://x.com/crowl_logan
   links:
     - title:
       url:
