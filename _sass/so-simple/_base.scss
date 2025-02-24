@@ -10,6 +10,14 @@ body {
   border-top: solid 0.25em;
 }
 
+p:has(+ ul) {
+  margin-bottom: 0;
+}
+
+p + ul {
+  margin-top: 0;
+}
+
 blockquote,
 q {
 
@@ -39,6 +47,15 @@ pre {
   .column {
     flex: 1; /* Ensures both columns take up equal space */
   }
+}
+
+.grey-box {
+  background-color: #f0f0f0; /* Light grey */
+  padding: 4px 8px;  /* Inner spacing */
+  border-radius: 4px; /* Rounded corners */
+  display: inline-block; /* Keep it inline */
+  width: 100%;
+  text-shadow: 0 1px 0 #fff;
 }
 
 kbd {
